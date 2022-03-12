@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "name": "Open index.html",
+            "request": "launch",
+            "file": "F:\\Users\\shani\\Desktop\\Programming Software\\arkanoid\\src\\index.html"
+        }
+    ]
+}
